@@ -4,13 +4,13 @@
 
 ## Setup
 
-1. Download APLib:
+1. Download [APLib](https://github.com/alma3lol/APLib/):
    * `cd [DOCUMENT ROOT]`
    * `git clone https://github.com/alma3lol/APLib.git`
 2. Download dependecies:
    * `cd 'APLib/composed'`
    * `php composer.phar install`
-3. Download [APLib externals](https://github.com/alma3lol/APLib-ext/):
+3. Download APLib externals:
    * `git clone https://github.com/alma3lol/APLib-ext.git`
 4. Put everything in place:
    * Move all sub folders of APLib-ext folder to `DOCUMENT ROOT`
